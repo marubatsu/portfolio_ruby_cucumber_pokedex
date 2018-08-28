@@ -8,7 +8,7 @@ This project is just for practice (and for fun!). It tests several flows in the 
 * Cucumber
 * ReportBuilder (Please check it here! https://github.com/rajatthareja/ReportBuilder)
 
-## Tests Execution
+## Tests Execution
 In the terminal, go to the folder with the project and enter `cucumber`.
 A HTML report will be created in 'results' folder from the json created by Cucumber (Check cucumber.yml)
 
